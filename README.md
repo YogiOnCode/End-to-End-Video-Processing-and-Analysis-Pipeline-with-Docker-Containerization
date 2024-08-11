@@ -74,6 +74,10 @@ YOLOv8 weights (`yolov8n.pt`) are downloaded automatically by Ultralytics on the
 
 Python · OpenCV · Ultralytics YOLOv8 · pandas · SQLite · SQLAlchemy · Matplotlib · Seaborn · Docker
 
+## License
+
+Released under the [MIT License](LICENSE).
+
 ## Author
 
 **Yogeswaran Amsavalli** · [GitHub](https://github.com/YogiOnCode)

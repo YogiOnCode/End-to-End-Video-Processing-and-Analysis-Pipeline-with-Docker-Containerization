@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated output
+Frames/
+Detection_Results.csv
+*.db
+bird_detection_plot.png
+
+# Model weights (downloaded at runtime)
+*.pt
